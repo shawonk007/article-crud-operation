@@ -1,0 +1,4 @@
+[2023-05-29 15:50:51] | ERROR from New Article | Call to a member function bind_param() on bool
+[2023-05-29 15:52:16] | ERROR from New Article | Call to a member function bind_param() on bool
+[2023-05-29 15:57:24] | ERROR from New Article | Call to a member function bind_param() on bool
+[2023-05-29 17:02:50] | ERROR from New Article | Call to a member function bind_param() on bool
